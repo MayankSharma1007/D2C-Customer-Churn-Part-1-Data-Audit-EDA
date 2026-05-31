@@ -6,8 +6,6 @@
 
 **Name:** Mayank Gopal Sharma
 
-**Programme:** IIT Patna - Executive Certification in Applied Artificial Intelligence & Machine Learning
-
 **Project:** D2C Customer Churn Intelligence & Retention Analytics
 
 ---
