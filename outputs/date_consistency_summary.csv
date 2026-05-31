@@ -1,0 +1,8 @@
+Dataset,Min_Date,Max_Date
+customers,1/1/2024,9/15/2025
+orders,1/9/2024,11/29/2025
+support_tickets,1/13/2024,9/30/2025
+web_events,9/30/2025,9/30/2025
+churn_labels,9/30/2025,9/30/2025
+intervention_history,9/30/2025,9/30/2025
+rfm_snapshot,9/30/2025,9/30/2025

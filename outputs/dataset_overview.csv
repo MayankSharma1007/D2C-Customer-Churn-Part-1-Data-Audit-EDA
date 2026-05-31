@@ -1,0 +1,8 @@
+Dataset,Rows,Columns
+customers,2400,10
+orders,10009,10
+support_tickets,1921,8
+web_events,2400,11
+churn_labels,2400,4
+intervention_history,2400,6
+rfm_snapshot,2400,29
