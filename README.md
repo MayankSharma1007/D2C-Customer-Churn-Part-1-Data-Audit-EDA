@@ -40,8 +40,7 @@ Part_1_Data_Audit_EDA_Business_Understanding/
 ├── business_memo.md
 │
 └── outputs/
-    ├── charts/
-    ├── tables/
+    ├── png
     └── exported_csv_files
 ```
 
